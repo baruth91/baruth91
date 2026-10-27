@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Phillip Baruth | QA engineer and software development</title>
+  <desc id="desc">A futuristic panel in dark blue, cyan, and violet. 12 years of experience in QA and personal projects.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090e20"/><stop offset="1" stop-color="#16102e"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5de4ed"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8c9ccc" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M32 76V32H110M1090 328h78v-44" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="Consolas, monospace">
+    <circle cx="66" cy="65" r="4" fill="#5de4ed"/>
+    <text x="82" y="70" fill="#95a7c9" font-size="14" letter-spacing="3">BARUTH91 / PERSONAL LAB</text>
+    <text x="62" y="151" fill="#f0f4ff" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Phillip Baruth</text>
+    <text x="65" y="195" fill="#5de4ed" font-size="22">QA engineer | software development</text>
+    <path d="M65 224H730" stroke="url(#accent)" stroke-opacity=".5"/>
+    <text x="65" y="267" fill="#e0d8ff" font-size="18">12 years of experience in QA</text>
+    <text x="65" y="301" fill="#95a7c9" font-size="14">build · test · learn · respawn</text>
+  </g>
+  <g transform="translate(986 172)" fill="none" stroke="url(#accent)">
+    <path d="M0-92 80-46V46L0 92-80 46V-46Z" stroke-width="2" opacity=".7"/>
+    <path d="M0-68 59-34V34L0 68-59 34V-34Z" opacity=".25"/>
+    <path d="m-36-20-22 20 22 20m72-40L58 0 36 20M13-35-13 35" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cy="-92" r="4" fill="#5de4ed" stroke="none"/>
+  </g>
+</svg>
