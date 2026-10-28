@@ -32,6 +32,11 @@ Tools used in the case studies below. Follow a badge to see the implementation.
 
 ### Featured case studies
 
+**[Object ownership and API security](https://github.com/baruth91/api-security-zap-python-case-study)** · Python / pytest / OWASP crAPI / ZAP<br />
+Real Java service, two-account authorization matrix, known BOLA reproduction and a scoped controller correction. Passive scanner results are interpreted alongside explicit ownership checks. [Execution evidence](https://github.com/baruth91/api-security-zap-python-case-study/blob/main/docs/validation.md).
+
+<a href="https://github.com/baruth91/api-security-zap-python-case-study"><img src="assets/zap.svg" alt="ZAP passive observation in a scoped API security learning case" height="30" /></a>
+
 **[Shopping journey](https://github.com/baruth91/playwright-python-qa-case-study)** · Playwright / Python / pytest<br />
 Risk-based selection, cart arithmetic, browser/API checks and traces. [Execution scope](https://github.com/baruth91/playwright-python-qa-case-study/blob/main/docs/validation.md).
 
