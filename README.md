@@ -32,6 +32,11 @@ Tools used in the case studies below. Follow a badge to see the implementation.
 
 ### Featured case studies
 
+**[SOAP transfer integrity](https://github.com/baruth91/soapui-soap-qa-case-study)** · SoapUI / SOAP / XML / Java<br />
+Versioned WSDL, namespace-aware XPath, exact money movement, idempotent retries and faults with unchanged state. 13 cases / 296 assertions, plus a verified missing-debit regression. [Verified CI](https://github.com/baruth91/soapui-soap-qa-case-study/actions/runs/40773900067).
+
+<a href="https://github.com/baruth91/soapui-soap-qa-case-study"><img src="assets/soapui.svg" alt="SoapUI SOAP contract and transfer integrity case study" height="30" /></a>
+
 **[Object ownership and API security](https://github.com/baruth91/api-security-zap-python-case-study)** · Python / pytest / OWASP crAPI / ZAP<br />
 Real Java service, two-account authorization matrix, known BOLA reproduction and a scoped controller correction. Passive scanner results are interpreted alongside explicit ownership checks. [Execution evidence](https://github.com/baruth91/api-security-zap-python-case-study/blob/main/docs/validation.md).
 
