@@ -16,6 +16,7 @@ Tools used in the case studies below. Follow a badge to see the implementation.
   <a href="https://github.com/baruth91/playwright-python-qa-case-study/tree/main/tests"><img src="assets/python.svg" alt="Python — explore the Playwright tests" height="30" /></a>
   <a href="https://github.com/baruth91/cypress-typescript-qa-case-study/tree/main/cypress"><img src="assets/typescript.svg" alt="TypeScript — explore the Cypress tests" height="30" /></a>
   <a href="https://github.com/baruth91/selenium-java-qa-case-study/tree/main/src/test/java"><img src="assets/java.svg" alt="Java — explore the Selenium tests" height="30" /></a>
+  <a href="https://github.com/baruth91/selenium-csharp-qa-case-study/tree/main/tests"><img src="assets/csharp.svg" alt="C# — explore the Selenium and NUnit tests" height="30" /></a>
 </p>
 <p>
   <a href="https://github.com/baruth91/playwright-python-qa-case-study"><img src="assets/playwright.svg" alt="Playwright case study" height="30" /></a>
@@ -31,6 +32,9 @@ Tools used in the case studies below. Follow a badge to see the implementation.
 </p>
 
 ### Featured case studies
+
+**[Expense review and stale decisions](https://github.com/baruth91/selenium-csharp-qa-case-study)** · Selenium / C# / NUnit / ASP.NET Core<br />
+Nine real-browser cases: row identity, exact totals, filters, rejection evidence and optimistic concurrency. A specific mutation proves stale approvals are detected with browser diagnostics. [Verified CI](https://github.com/baruth91/selenium-csharp-qa-case-study/actions/runs/40775613588).
 
 **[SOAP transfer integrity](https://github.com/baruth91/soapui-soap-qa-case-study)** · SoapUI / SOAP / XML / Java<br />
 Versioned WSDL, namespace-aware XPath, exact money movement, idempotent retries and faults with unchanged state. 13 cases / 296 assertions, plus a verified missing-debit regression. [Verified CI](https://github.com/baruth91/soapui-soap-qa-case-study/actions/runs/40773900067).
