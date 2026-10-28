@@ -1,37 +1,56 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Phillip Baruth | QA engineer and software development. 12 years of experience in QA." width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" />
+  <img src="assets/header-light.svg" alt="Phillip Baruth — QA engineer. Quality is the mission. Code is the tool." width="100%" />
+</picture>
+
+I'm **Phillip Baruth**, a QA engineer with **12 years of experience in software quality assurance**.
+
+I turn quality risks into readable tests and share the decisions behind the code.
+This is my personal lab for test automation, programming and learning in public.
+
+### Languages and automation
+
+Tools used in the case studies below. Follow a badge to see the implementation.
+
+<p>
+  <a href="https://github.com/baruth91/playwright-python-qa-case-study/tree/main/tests"><img src="assets/python.svg" alt="Python — explore the Playwright tests" height="30" /></a>
+  <a href="https://github.com/baruth91/cypress-typescript-qa-case-study/tree/main/cypress"><img src="assets/typescript.svg" alt="TypeScript — explore the Cypress tests" height="30" /></a>
+  <a href="https://github.com/baruth91/selenium-java-qa-case-study/tree/main/src/test/java"><img src="assets/java.svg" alt="Java — explore the Selenium tests" height="30" /></a>
+</p>
+<p>
+  <a href="https://github.com/baruth91/playwright-python-qa-case-study"><img src="assets/playwright.svg" alt="Playwright case study" height="30" /></a>
+  <a href="https://github.com/baruth91/cypress-typescript-qa-case-study"><img src="assets/cypress.svg" alt="Cypress case study" height="30" /></a>
+  <a href="https://github.com/baruth91/selenium-java-qa-case-study"><img src="assets/selenium.svg" alt="Selenium case study" height="30" /></a>
 </p>
 
-<p align="center">
-  <strong>Quality is the mission. Code is the tool.</strong><br />
-  QA engineer · software development · player mindset
-</p>
+### Featured case studies
 
-### > player profile
+**[Shopping journey](https://github.com/baruth91/playwright-python-qa-case-study)** · Playwright / Python / pytest<br />
+Risk-based selection, cart arithmetic, browser/API checks and traces. [Execution scope](https://github.com/baruth91/playwright-python-qa-case-study/blob/main/docs/validation.md).
 
-I'm Phillip Baruth, a QA professional with **12 years of experience in software quality assurance**.
+**[Transaction integrity](https://github.com/baruth91/cypress-typescript-qa-case-study)** · Cypress / TypeScript<br />
+Controlled data, network synchronization, persisted transactions and exact balance changes. [Verified CI](https://github.com/baruth91/cypress-typescript-qa-case-study/actions/runs/40697835286).
 
-This is where I build and share personal projects in QA and software development: turning ideas into code, investigating behavior, and exploring ways to build better software.
+**[Owner-record workflows](https://github.com/baruth91/selenium-java-qa-case-study)** · Selenium / Java / JUnit / Maven<br />
+Record identity, input validation, explicit waits and browser lifecycle. [Verified CI](https://github.com/baruth91/selenium-java-qa-case-study/actions/runs/40706015776).
 
-A gamer and a nerd at heart. Curious about how things work and what happens when they don't work as expected.
+Each repository includes setup instructions, test rationale, learning exercises and
+documented limits. Cypress and Selenium run their applications inside CI. The
+Playwright case documents its separate local and hosted execution boundaries.
 
-### > personal lab
+### How I approach quality
 
-I'm building the next chapter of my personal portfolio. Here's what I'll be sharing:
+- Understand the behavior and risk before choosing what to automate.
+- Verify meaningful outcomes, including persisted state where relevant.
+- Keep tests independent and environments reproducible.
+- Investigate failures with evidence and explain what a passing test cannot prove.
 
-- **QA in practice:** test scenarios, investigations, and documentation for my own projects.
-- **Code and experiments:** personal applications and tools for exploring ideas.
-- **Continuous learning:** lessons and decisions documented along the way.
+### Learning in public
 
-### > operating principles
+These case studies are also my study material. I'm developing practical QA training
+resources one explained example at a time, with code people can run and question.
 
-```text
-01  Understand the behavior before validating the outcome.
-02  Explore beyond the happy path.
-03  Turn findings into improvements.
-04  Build, test, learn. Repeat.
-```
+Gamer at heart. Curious about how things work — and what happens when they don't.
+**Build · test · learn · respawn.**
 
-<p align="center">
-  <sub>Personal projects and independent learning. This profile does not represent employers or clients.</sub>
-</p>
+<sub>Personal projects and independent learning. This profile does not represent employers or clients.</sub>

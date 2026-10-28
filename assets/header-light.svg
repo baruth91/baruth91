@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="252" viewBox="0 0 1200 252" role="img" aria-labelledby="title desc">
+  <title id="title">Phillip Baruth — QA engineer</title>
+  <desc id="desc">A minimal light panel with cyan, violet and amber accents. Quality is the mission. Code is the tool.</desc>
+  <defs><linearGradient id="edge" x2="1"><stop stop-color="#0891b2"/><stop offset=".53" stop-color="#7c3aed"/><stop offset="1" stop-color="#d97706"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="250" rx="18" fill="#f8fafc" stroke="#d0d7de"/>
+  <path d="M24 1h1152" stroke="url(#edge)" stroke-width="3"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="48" y="53" fill="#57606a" font-size="14" letter-spacing="2.6">BARUTH91 / PERSONAL LAB</text>
+    <text x="46" y="117" fill="#0f172a" font-size="48" font-weight="700">Phillip Baruth</text>
+    <text x="48" y="154" fill="#0891b2" font-size="22">QA engineer · automation · software quality</text>
+    <text x="48" y="207" fill="#475569" font-size="17">Quality is the mission. Code is the tool.</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m1001 79-45 47 45 47" stroke="#0891b2" stroke-width="5"/>
+    <path d="m1070 79 45 47-45 47" stroke="#7c3aed" stroke-width="5"/>
+    <path d="m1047 87-23 78" stroke="#d97706" stroke-width="4"/>
+  </g>
+  <circle cx="962" cy="207" r="3" fill="#0891b2"/>
+  <circle cx="979" cy="207" r="3" fill="#7c3aed"/>
+  <circle cx="996" cy="207" r="3" fill="#d97706"/>
+</svg>
