@@ -22,6 +22,7 @@ Tools used in the case studies below. Follow a badge to see the implementation.
   <a href="https://github.com/baruth91/cypress-typescript-qa-case-study"><img src="assets/cypress.svg" alt="Cypress case study" height="30" /></a>
   <a href="https://github.com/baruth91/selenium-java-qa-case-study"><img src="assets/selenium.svg" alt="Selenium case study" height="30" /></a>
   <a href="https://github.com/baruth91/postman-api-qa-case-study"><img src="assets/postman.svg" alt="Postman API case study" height="30" /></a>
+  <a href="https://github.com/baruth91/ai-assisted-qa-evaluation-case-study"><img src="assets/llm-evaluation.svg" alt="LLM evaluation learning case with real recorded model responses" height="30" /></a>
 </p>
 <p>
   <a href="https://github.com/baruth91/python-api-database-qa-case-study/tree/main/tests"><img src="assets/requests.svg" alt="Requests API integration tests" height="30" /></a>
@@ -45,6 +46,9 @@ Request chaining, exact totals, stock changes, access control and data-driven re
 
 **[Committed order data](https://github.com/baruth91/python-api-database-qa-case-study)** · Python / Requests / pytest / PostgreSQL<br />
 Independent SQL observations, relational constraints, multi-item rollback and reconciliation queries that detect inconsistent totals. [Verified CI](https://github.com/baruth91/python-api-database-qa-case-study/actions/runs/40719981385).
+
+**[AI-assisted QA evaluation](https://github.com/baruth91/ai-assisted-qa-evaluation-case-study)** · Python / pytest / Ollama<br />
+Versioned prompts, real local-model responses, recorded replay and documented evaluator blind spots. [Harness CI](https://github.com/baruth91/ai-assisted-qa-evaluation-case-study/actions/runs/40766754597) · [Observed model failures](https://github.com/baruth91/ai-assisted-qa-evaluation-case-study/blob/main/docs/validation.md).
 
 Each repository includes setup instructions, test rationale, learning exercises and
 documented limits. Cypress and Selenium run their applications inside CI. The
