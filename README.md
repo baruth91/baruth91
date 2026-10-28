@@ -21,6 +21,7 @@ Tools used in the case studies below. Follow a badge to see the implementation.
   <a href="https://github.com/baruth91/playwright-python-qa-case-study"><img src="assets/playwright.svg" alt="Playwright case study" height="30" /></a>
   <a href="https://github.com/baruth91/cypress-typescript-qa-case-study"><img src="assets/cypress.svg" alt="Cypress case study" height="30" /></a>
   <a href="https://github.com/baruth91/selenium-java-qa-case-study"><img src="assets/selenium.svg" alt="Selenium case study" height="30" /></a>
+  <a href="https://github.com/baruth91/postman-api-qa-case-study"><img src="assets/postman.svg" alt="Postman API case study" height="30" /></a>
 </p>
 
 ### Featured case studies
@@ -34,9 +35,13 @@ Controlled data, network synchronization, persisted transactions and exact balan
 **[Owner-record workflows](https://github.com/baruth91/selenium-java-qa-case-study)** · Selenium / Java / JUnit / Maven<br />
 Record identity, input validation, explicit waits and browser lifecycle. [Verified CI](https://github.com/baruth91/selenium-java-qa-case-study/actions/runs/40706015776).
 
+**[Order integrity](https://github.com/baruth91/postman-api-qa-case-study)** · Postman / JavaScript / HTTP<br />
+Request chaining, exact totals, stock changes, access control and data-driven rejections against a local teaching API. [Verified CI](https://github.com/baruth91/postman-api-qa-case-study/actions/runs/40715919540).
+
 Each repository includes setup instructions, test rationale, learning exercises and
 documented limits. Cypress and Selenium run their applications inside CI. The
 Playwright case documents its separate local and hosted execution boundaries.
+Postman runs a controlled in-memory API; database persistence is a planned next case.
 
 ### How I approach quality
 
